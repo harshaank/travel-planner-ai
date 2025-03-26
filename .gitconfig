@@ -2,8 +2,8 @@
 Host github.com
   HostName github.com
   User git
-  IdentityFile id_ed25519_hardikverma22
+  IdentityFile id_ed25519_harshaank
 
 [user]
-    name = Hardik Verma
-    email = hardikverma22@rediffmail.com
+    name = harshaank
+    email = harshaankan923@gmail.com

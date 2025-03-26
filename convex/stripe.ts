@@ -33,7 +33,7 @@
 //                         currency: 'INR',
 //                         product_data: {
 //                             name: "Credits",
-//                             description: "Stripe is in test mode, contact hardikverma22@gmail.com for more credits",
+//                             description: "Stripe is in test mode, contact harshaankan923@gmail.com for more credits",
 //                         },
 //                         unit_amount: 1600,
 //                     },
